@@ -16,6 +16,7 @@ html, body {
     display: inline;
 }
 
+.nav a {
     display: inline-block;
     padding: .5em;
     color: white;
