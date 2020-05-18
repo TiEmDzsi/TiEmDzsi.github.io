@@ -49,11 +49,11 @@ html, body {
 .title {
     text-align: center;
     margin: 0;
-    font-size: 4em;
+    font-size: 3em;
 }
 
 .title-large {
-    font-size: 5em;
+    font-size: 4em;
 }
 
 .content-section {
